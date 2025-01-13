@@ -1,3 +1,4 @@
 # aniruddha-demo
-This is my first git repositroy 
-author- Aniruddha Roy
+This is my first git repositroy.
+<br>
+Author- Aniruddha Roy
